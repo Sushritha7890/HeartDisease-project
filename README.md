@@ -115,8 +115,8 @@ Achieved:
 
 # The project highlights:
 
-Data preprocessing
-Feature scaling
-Model training
-Model evaluation
-Performance comparison
+•Data preprocessing
+•Feature scaling
+•Model training
+•Model evaluation
+•Performance comparison
